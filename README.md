@@ -8,30 +8,31 @@ Introduction to React Native in the DIO course, here is the result:
 # Content: 
 - Knowing the React Native:
 
- - What is React Native
- - What is cross-platform
- - Origin of React Native 
+  - What is React Native
+  - What is cross-platform
+  - Origin of React Native 
  
 - Knowing the documentation:
 
- - Components
- - API's
- - Community (Blog)
+  - Components
+  - API's
+  - Community (Blog)
  
 - How setup the React Native and others softwares:
 
- - Chocolatey installation
- - Node
- - Java 11 (JDK)
- - Yarn
- - Android Studio:
-  - Download android s
-  - Create a AVD (Android Virtual Device)
+  - Chocolatey installation
+  - Node
+  - Java 11 (JDK)
+  - Yarn
+  - Android Studio:
+  
+    - Download android s
+    - Create a AVD (Android Virtual Device)
     
 - Creating a project:
 
- -  Using React Native CLI
- -  Folder structure
+  -  Using React Native CLI
+  -  Folder structure
    
 - Creating a profile screen:
 
