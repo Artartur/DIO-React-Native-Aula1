@@ -5,6 +5,7 @@ import {View, Image,Text, StyleSheet, SafeAreaView, StatusBar, Pressable, Linkin
 const corGit = '#010409';
 const image = 'https://avatars.githubusercontent.com/u/86370873?v=4';
 const url = 'https://github.com/Artartur';
+const corBola = '#32CD32';
 
 const App = () =>{
     
@@ -19,14 +20,275 @@ const App = () =>{
 
     return (
         <SafeAreaView style={style.container}>
-            <StatusBar backgroundColor = {corGit} barStyle="light-content"/>
+            <StatusBar backgroundColor = 'white' barStyle="ligth-content"/>
         <View style={style.content}>
         <Image accessibilityLabel = "Foto de perfil de Artur" style = {style.avatar} source={{uri: image}}/>
             <Text accessibilityLabel="Nome: Artur Souza" style={[style.text, style.nome]}>Artur Souza</Text>
             <Text accessibilityLabel="Nome de usuario: ArtArtur" style={[style.text, style.nick]}>ArtArtur</Text>
             <Text accessibilityLabel="Descricao: " style={[style.text, style.descricao]}>Analysis and systems development student | Full-Stack Student</Text>
-            
+           
+           <View style={style.div}>
+               <View style={style.coluna}>
+                   <Text></Text>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+               </View>
+
+               <View style={style.coluna}>
+                     <Text></Text>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+               </View>
+
+               <View style={style.coluna}>
+               <Text></Text>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+               </View>
+
+               <View style={style.coluna}>
+               <Text></Text>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+               </View>
+
+               <View style={style.coluna}>
+                     <Text></Text>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={[style.linha,style.bolaClara]}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+               </View>
+
+               <View style={style.coluna}>
+                     <Text></Text>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+                   <View style={style.linha}>
+                        <Text></Text>
+                   </View>
+               </View>
+          </View> 
+           
             <Pressable onPress={handlePress}>
+
             <View style={style.botao}>
                 <Text style={[style.text, style.textBotao]}> Open in Github </Text>
             </View>
@@ -42,7 +304,7 @@ export default App;
 const style = StyleSheet.create({
     container:{
         backgroundColor: corGit,
-        flex: 1, //Expande para a tela inteira         
+        flex: 1,       
         justifyContent: 'center',
         
     },
@@ -82,6 +344,29 @@ const style = StyleSheet.create({
     textBotao:{
         fontWeight: 'bold',
         fontSize: 16,
+    },
+    div:{
+        marginRight: 240,
+        padding: 10,
+        flexDirection: 'column',
+    },
+    coluna:{
+        width:19,
+        heigth:20,
+        margin:0.4,
+        borderRadius: 6,
+        backgroundColor: 'green',
+        flexDirection:'row'
+    },
+    linha:{
+        width:19,
+        heigth:20,
+        margin:0.6,
+        borderRadius: 6,
+        backgroundColor: 'green',
+    },
+    bolaClara:{
+        backgroundColor: corBola,
     }
 
 });
