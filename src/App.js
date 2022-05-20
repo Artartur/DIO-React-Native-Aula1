@@ -355,7 +355,7 @@ const style = StyleSheet.create({
         heigth:20,
         margin:0.4,
         borderRadius: 6,
-        backgroundColor: 'green',
+        backgroundColor: '#228B22',
         flexDirection:'row'
     },
     linha:{
@@ -363,7 +363,7 @@ const style = StyleSheet.create({
         heigth:20,
         margin:0.6,
         borderRadius: 6,
-        backgroundColor: 'green',
+        backgroundColor: '#228B22',
     },
     bolaClara:{
         backgroundColor: corBola,
