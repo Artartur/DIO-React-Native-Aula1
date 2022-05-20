@@ -3,7 +3,7 @@
 
 Introduction to React Native in the DIO course, here is the result:
 
-![image](https://user-images.githubusercontent.com/86370873/168954521-4ca1a800-d75b-43a0-b9fb-c5dcf4f532b7.png)
+![image](https://user-images.githubusercontent.com/86370873/169464002-dfbec103-7ba0-4c88-ab27-80a0a390b2fd.png)
 
 # Content: 
 - Knowing the React Native:
