@@ -5,7 +5,7 @@ import Bolinha from './Bolinha';
 
 const corGit = '#010409';
 const image = 'https://avatars.githubusercontent.com/u/86370873?v=4';
-const url = 'https://www.youtube.com/watch?v=FzG4uDgje3M';
+const url = 'https://github.com/Artartur';
 
 
 const App = () =>{
